@@ -20,7 +20,7 @@
     "apollo-link-http": "^1.5.15",
     "glob": "^7.1.4",
     "graphql-tag": "^2.10.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.16.3"
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^1.0.0",
@@ -32,6 +32,6 @@
     "node-sass": "^4.12.0",
     "nodemon": "^1.18.9",
     "sass-loader": "^7.3.1",
-    "vue-jest": "^3.0.3"
+    "vue-jest": "^4.0.1"
   }
 }
