@@ -20,7 +20,7 @@
     "apollo-link-http": "^1.5.15",
     "glob": "^7.1.4",
     "graphql-tag": "^2.10.1",
-    "nuxt": "^2.0.0"
+    "nuxt": "^3.4.3"
   },
   "devDependencies": {
     "@nuxtjs/style-resources": "^1.0.0",
